@@ -33,4 +33,5 @@ A professional-grade real-time network security analyzer built using **React**, 
 > Live threat metrics update in real-time to simulate monitoring of suspicious events, blocked IPs, and more.
 
 ## 📁 Project Structure
+Added professional README for cybersecurity project
 
