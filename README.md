@@ -35,3 +35,6 @@ A professional-grade real-time network security analyzer built using **React**, 
 ## 📁 Project Structure
 Added professional README for cybersecurity project
 
+ To open the portfolio
+ http://localhost:5173/
+
